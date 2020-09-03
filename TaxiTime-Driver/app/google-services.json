@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "44987090336",
+    "firebase_url": "https://nativetaxiapp.firebaseio.com",
+    "project_id": "nativetaxiapp",
+    "storage_bucket": "nativetaxiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44987090336:android:db298f024202fac42cd0c5",
+        "android_client_info": {
+          "package_name": "com.taxitime.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44987090336-2m20qbrjn3oe9kb2ma068kud1u7eqv8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtGNXjjJ5Wby0g84NyHoCyUD6JonxNpoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44987090336-2m20qbrjn3oe9kb2ma068kud1u7eqv8j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44987090336-ia2mocgf99r0rt42uuaipv5lnelcmfgc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.innomalist.taxi.driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44987090336:android:5d036901b8101a132cd0c5",
+        "android_client_info": {
+          "package_name": "com.taxitime.rideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44987090336-2trnel9lj24lf17hp7fd2ru3vocd84cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxitime.rideo",
+            "certificate_hash": "963535086cb596c7e08ddbd5447b5059c31cceab"
+          }
+        },
+        {
+          "client_id": "44987090336-2m20qbrjn3oe9kb2ma068kud1u7eqv8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtGNXjjJ5Wby0g84NyHoCyUD6JonxNpoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44987090336-2m20qbrjn3oe9kb2ma068kud1u7eqv8j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44987090336-ia2mocgf99r0rt42uuaipv5lnelcmfgc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.innomalist.taxi.driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
